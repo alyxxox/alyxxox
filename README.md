@@ -1,4 +1,3 @@
-- Hi! My name is Alyx
 - I mostly make python scripts but also do some shell scripting and am trying to learn Powershell!
 
 ## Current Projects:
